@@ -1,22 +1,125 @@
 {
-  "chapters": {},
-  "lastUpdated": "2025-10-24T00:00:00.000Z"
+  "chapters": {
+    "1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "3": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "4": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "5": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "6": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "7": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "8": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "9": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "8.5": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.541Z",
+      "lastUpdate": "2025-10-23T18:08:50.541Z"
+    },
+    "10.1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "10.2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "11.1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "11.2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "12.1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "12.2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "13.1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "13.2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "14.1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "14.2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "15.1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "15.2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "16.1": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    },
+    "16.2": {
+      "pendingViews": 0,
+      "lastIncrement": "2025-10-23T18:08:50.542Z",
+      "lastUpdate": "2025-10-23T18:08:50.542Z"
+    }
+  },
+  "lastUpdated": "2025-10-23T18:08:50.542Z"
 }
-```
-
-**Note:** Ganti timestamp dengan waktu sekarang atau biarkan saja (akan diupdate otomatis nanti).
-
----
-
-## ⚠️ **Error yang Akan Muncul Jika Tidak Ada**
-
-Jika pending files tidak dibuat, GitHub Actions akan error:
-```
-❌ Error updating views: Error: ENOENT: no such file or directory, 
-   open 'pending-views.json'
-```
-
-Atau:
-```
-❌ Error updating chapter views: Error: ENOENT: no such file or directory, 
-   open 'pending-chapter-views.json'
