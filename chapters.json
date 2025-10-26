@@ -1,0 +1,100 @@
+{
+  "chapters": [
+    {
+      "title": "Chapter 16.2",
+      "locked": true
+    },
+    {
+      "title": "Chapter 16.1",
+      "locked": true
+    },
+    {
+      "title": "Chapter 15.2",
+      "locked": false
+    },
+    {
+      "title": "Chapter 15.1",
+      "locked": false
+    },
+    {
+      "title": "Chapter 14.2",
+      "locked": false
+    },
+    {
+      "title": "Chapter 14.1",
+      "locked": false
+    },
+    {
+      "title": "Chapter 13.2",
+      "locked": false
+    },
+    {
+      "title": "Chapter 13.1",
+      "locked": false
+    },
+    {
+      "title": "Chapter 12.2",
+      "locked": false
+    },
+    {
+      "title": "Chapter 12.1",
+      "locked": false
+    },
+    {
+      "title": "Chapter 11.2",
+      "locked": false
+    },
+    {
+      "title": "Chapter 11.1",
+      "locked": false
+    },
+    {
+      "title": "Chapter 10.2",
+      "locked": false
+    },
+    {
+      "title": "Chapter 10.1",
+      "locked": false
+    },
+    {
+      "title": "Chapter 9",
+      "locked": false
+    },
+    {
+      "title": "Chapter 8.5",
+      "locked": false
+    },
+    {
+      "title": "Chapter 8",
+      "locked": false
+    },
+    {
+      "title": "Chapter 7",
+      "locked": false
+    },
+    {
+      "title": "Chapter 6",
+      "locked": false
+    },
+    {
+      "title": "Chapter 5",
+      "locked": false
+    },
+    {
+      "title": "Chapter 4",
+      "locked": false
+    },
+    {
+      "title": "Chapter 3",
+      "locked": false
+    },
+    {
+      "title": "Chapter 2",
+      "locked": false
+    },
+    {
+      "title": "Chapter 1",
+      "locked": false
+    }
+  ]
+}
