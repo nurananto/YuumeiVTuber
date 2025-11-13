@@ -14,7 +14,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 260,
+    "views": 276,
     "links": {
       "mangadex": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
       "raw": "https://www.manga-up.com/titles/1289"
@@ -33,7 +33,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 20
+      "views": 21
     },
     "2": {
       "title": "Chapter 2",
@@ -43,7 +43,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 16
+      "views": 17
     },
     "3": {
       "title": "Chapter 3",
@@ -53,7 +53,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 12
+      "views": 14
     },
     "4": {
       "title": "Chapter 4",
@@ -63,7 +63,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 11
+      "views": 12
     },
     "5": {
       "title": "Chapter 5",
@@ -73,7 +73,7 @@
       "totalPages": 25,
       "pages": 25,
       "locked": false,
-      "views": 12
+      "views": 13
     },
     "6": {
       "title": "Chapter 6",
@@ -83,7 +83,7 @@
       "totalPages": 25,
       "pages": 25,
       "locked": false,
-      "views": 13
+      "views": 14
     },
     "7": {
       "title": "Chapter 7",
@@ -93,7 +93,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 12
+      "views": 14
     },
     "8": {
       "title": "Chapter 8",
@@ -103,7 +103,7 @@
       "totalPages": 30,
       "pages": 30,
       "locked": false,
-      "views": 13
+      "views": 14
     },
     "9": {
       "title": "Chapter 9",
@@ -113,7 +113,7 @@
       "totalPages": 22,
       "pages": 22,
       "locked": false,
-      "views": 11
+      "views": 12
     },
     "8.5": {
       "title": "Chapter 8.5",
@@ -123,7 +123,7 @@
       "totalPages": 3,
       "pages": 3,
       "locked": false,
-      "views": 11
+      "views": 12
     },
     "10.1": {
       "title": "Chapter 10.1",
@@ -133,7 +133,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 11
+      "views": 12
     },
     "10.2": {
       "title": "Chapter 10.2",
@@ -143,7 +143,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 12
+      "views": 13
     },
     "11.1": {
       "title": "Chapter 11.1",
@@ -153,7 +153,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 12
+      "views": 13
     },
     "11.2": {
       "title": "Chapter 11.2",
@@ -163,7 +163,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 11
+      "views": 12
     },
     "12.1": {
       "title": "Chapter 12.1",
@@ -173,7 +173,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 13
+      "views": 14
     },
     "12.2": {
       "title": "Chapter 12.2",
@@ -183,7 +183,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 8
+      "views": 9
     },
     "13.1": {
       "title": "Chapter 13.1",
@@ -203,7 +203,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 14
+      "views": 15
     },
     "14.1": {
       "title": "Chapter 14.1",
@@ -213,7 +213,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 8
+      "views": 9
     },
     "14.2": {
       "title": "Chapter 14.2",
@@ -223,7 +223,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 8
+      "views": 9
     },
     "15.1": {
       "title": "Chapter 15.1",
@@ -233,7 +233,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 19
+      "views": 20
     },
     "15.2": {
       "title": "Chapter 15.2",
@@ -243,7 +243,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 93
+      "views": 98
     },
     "16.1": {
       "title": "Chapter 16.1",
@@ -253,9 +253,9 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 98
+      "views": 107
     }
   },
-  "lastUpdated": "2025-11-12T09:16:18+07:00",
+  "lastUpdated": "2025-11-13T09:18:52+07:00",
   "lastChapterUpdate": "2025-11-09T13:50:07+07:00"
 }
