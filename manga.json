@@ -14,7 +14,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 308,
+    "views": 366,
     "links": {
       "mangadex": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
       "raw": "https://www.manga-up.com/titles/1289"
@@ -35,7 +35,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 22
+      "views": 25
     },
     "2": {
       "title": "Chapter 2",
@@ -45,7 +45,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 18
+      "views": 20
     },
     "3": {
       "title": "Chapter 3",
@@ -55,7 +55,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 15
+      "views": 17
     },
     "4": {
       "title": "Chapter 4",
@@ -65,7 +65,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 12
+      "views": 13
     },
     "5": {
       "title": "Chapter 5",
@@ -85,7 +85,7 @@
       "totalPages": 25,
       "pages": 25,
       "locked": false,
-      "views": 14
+      "views": 16
     },
     "7": {
       "title": "Chapter 7",
@@ -95,7 +95,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 14
+      "views": 16
     },
     "8": {
       "title": "Chapter 8",
@@ -115,7 +115,7 @@
       "totalPages": 22,
       "pages": 22,
       "locked": false,
-      "views": 13
+      "views": 14
     },
     "8.5": {
       "title": "Chapter 8.5",
@@ -135,7 +135,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 13
+      "views": 14
     },
     "10.2": {
       "title": "Chapter 10.2",
@@ -165,7 +165,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 13
+      "views": 14
     },
     "12.1": {
       "title": "Chapter 12.1",
@@ -175,7 +175,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 15
+      "views": 16
     },
     "12.2": {
       "title": "Chapter 12.2",
@@ -185,7 +185,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 10
+      "views": 11
     },
     "13.1": {
       "title": "Chapter 13.1",
@@ -225,7 +225,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 10
+      "views": 12
     },
     "15.1": {
       "title": "Chapter 15.1",
@@ -235,7 +235,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 21
+      "views": 22
     },
     "15.2": {
       "title": "Chapter 15.2",
@@ -255,7 +255,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 128
+      "views": 153
     },
     "16.2": {
       "title": "Chapter 16.2",
@@ -265,9 +265,9 @@
       "totalPages": 0,
       "pages": 0,
       "locked": true,
-      "views": 8
+      "views": 32
     }
   },
-  "lastUpdated": "2025-11-14T09:16:58+07:00",
+  "lastUpdated": "2025-11-15T08:28:21+07:00",
   "lastChapterUpdate": "2025-11-13T17:15:31+07:00"
 }
