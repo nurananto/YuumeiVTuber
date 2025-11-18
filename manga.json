@@ -14,7 +14,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 276,
+    "views": 465,
     "links": {
       "mangadex": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
       "raw": "https://www.manga-up.com/titles/1289"
@@ -22,7 +22,9 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/YuumeiVTuber/main/",
     "imagePrefix": "Image",
     "imageFormat": "jpg",
-    "lockedChapters": []
+    "lockedChapters": [
+      "16.2"
+    ]
   },
   "chapters": {
     "1": {
@@ -33,7 +35,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 21
+      "views": 29
     },
     "2": {
       "title": "Chapter 2",
@@ -43,7 +45,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 17
+      "views": 21
     },
     "3": {
       "title": "Chapter 3",
@@ -53,7 +55,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 14
+      "views": 18
     },
     "4": {
       "title": "Chapter 4",
@@ -63,7 +65,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 12
+      "views": 17
     },
     "5": {
       "title": "Chapter 5",
@@ -73,7 +75,7 @@
       "totalPages": 25,
       "pages": 25,
       "locked": false,
-      "views": 13
+      "views": 14
     },
     "6": {
       "title": "Chapter 6",
@@ -83,7 +85,7 @@
       "totalPages": 25,
       "pages": 25,
       "locked": false,
-      "views": 14
+      "views": 19
     },
     "7": {
       "title": "Chapter 7",
@@ -93,7 +95,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 14
+      "views": 17
     },
     "8": {
       "title": "Chapter 8",
@@ -103,7 +105,7 @@
       "totalPages": 30,
       "pages": 30,
       "locked": false,
-      "views": 14
+      "views": 17
     },
     "9": {
       "title": "Chapter 9",
@@ -113,7 +115,7 @@
       "totalPages": 22,
       "pages": 22,
       "locked": false,
-      "views": 12
+      "views": 17
     },
     "8.5": {
       "title": "Chapter 8.5",
@@ -123,7 +125,7 @@
       "totalPages": 3,
       "pages": 3,
       "locked": false,
-      "views": 12
+      "views": 14
     },
     "10.1": {
       "title": "Chapter 10.1",
@@ -133,7 +135,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 12
+      "views": 16
     },
     "10.2": {
       "title": "Chapter 10.2",
@@ -143,7 +145,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 13
+      "views": 16
     },
     "11.1": {
       "title": "Chapter 11.1",
@@ -153,7 +155,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 13
+      "views": 16
     },
     "11.2": {
       "title": "Chapter 11.2",
@@ -163,7 +165,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 12
+      "views": 16
     },
     "12.1": {
       "title": "Chapter 12.1",
@@ -173,7 +175,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 14
+      "views": 19
     },
     "12.2": {
       "title": "Chapter 12.2",
@@ -183,7 +185,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 9
+      "views": 13
     },
     "13.1": {
       "title": "Chapter 13.1",
@@ -193,7 +195,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 8
+      "views": 13
     },
     "13.2": {
       "title": "Chapter 13.2",
@@ -203,7 +205,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 15
+      "views": 19
     },
     "14.1": {
       "title": "Chapter 14.1",
@@ -213,7 +215,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 9
+      "views": 13
     },
     "14.2": {
       "title": "Chapter 14.2",
@@ -223,7 +225,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 9
+      "views": 14
     },
     "15.1": {
       "title": "Chapter 15.1",
@@ -233,7 +235,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 20
+      "views": 26
     },
     "15.2": {
       "title": "Chapter 15.2",
@@ -243,7 +245,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 98
+      "views": 114
     },
     "16.1": {
       "title": "Chapter 16.1",
@@ -253,9 +255,19 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 107
+      "views": 207
+    },
+    "16.2": {
+      "title": "Chapter 16.2",
+      "chapter": 16.2,
+      "folder": "16.2",
+      "uploadDate": "2025-11-13T17:15:31+07:00",
+      "totalPages": 0,
+      "pages": 0,
+      "locked": true,
+      "views": 62
     }
   },
-  "lastUpdated": "2025-11-13T09:18:52+07:00",
-  "lastChapterUpdate": "2025-11-09T13:50:07+07:00"
+  "lastUpdated": "2025-11-18T09:16:21+07:00",
+  "lastChapterUpdate": "2025-11-13T17:15:31+07:00"
 }
