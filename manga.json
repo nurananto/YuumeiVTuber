@@ -14,7 +14,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 529,
+    "views": 536,
     "links": {
       "mangadex": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
       "raw": "https://www.manga-up.com/titles/1289"
@@ -35,7 +35,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 30
+      "views": 31
     },
     "2": {
       "title": "Chapter 2",
@@ -255,7 +255,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 233
+      "views": 235
     },
     "16.2": {
       "title": "Chapter 16.2",
@@ -265,9 +265,9 @@
       "totalPages": 0,
       "pages": 0,
       "locked": true,
-      "views": 69
+      "views": 71
     }
   },
-  "lastUpdated": "2025-11-21T19:34:13+07:00",
+  "lastUpdated": "2025-11-22T09:10:48+07:00",
   "lastChapterUpdate": "2025-11-13T17:15:31+07:00"
 }
