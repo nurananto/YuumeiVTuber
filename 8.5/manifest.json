@@ -3,8 +3,10 @@
   "upload_date": "2025-11-23 23:26:15",
   "total_pages": 3,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/YuumeiVTuber/8.5/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/YuumeiVTuber/8.5/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/YuumeiVTuber/8.5/Image03.webp"
-  ]
+    "f383198e4d71eb17679b2d43a842579e:6eb2efeae8e2462bad900f9e0faf83ae24db48d9f874cfa6339e3cae9d8e14bf37054d89ca736651a0641e46897f8ad313147e8771006ea2b4b3b1f62e13b425",
+    "73606b7a67ac99973a966b65c05e8717:64b54a44617c569d0db59ad9a77ef9e992ae967273c8ca7b9e46235f8a10b9ab4dbb1a2e424041054ba66adfbb96d89074870ac5d422879d182f12c0f555bae5",
+    "e0de6327b6f595cc544bb8834d6273f2:9094140f11350979b7eba79afad4724f47d6df7af64bb34de99957a91d26bdf015a6025905ead8bca15c9aa3923a211d8b4d3d4bea17b4244f7034f444790464"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
