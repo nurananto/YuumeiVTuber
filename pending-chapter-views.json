@@ -1,9 +1,9 @@
 {
   "chapters": {
     "1": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-28T13:02:44.780Z",
-      "lastUpdate": "2025-11-28T00:11:22+07:00"
+      "lastUpdate": "2025-11-29T00:11:26+07:00"
     },
     "2": {
       "pendingViews": 0,
@@ -91,40 +91,40 @@
       "lastUpdate": "2025-11-28T17:26:57+07:00"
     },
     "14.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-28T10:47:20.625Z",
-      "lastUpdate": "2025-11-28T17:26:57+07:00"
+      "lastUpdate": "2025-11-29T00:11:26+07:00"
     },
     "14.2": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-28T10:48:52.470Z",
-      "lastUpdate": "2025-11-28T17:26:57+07:00"
+      "lastUpdate": "2025-11-29T00:11:26+07:00"
     },
     "15.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-28T10:47:02.588Z",
-      "lastUpdate": "2025-11-28T17:26:57+07:00"
+      "lastUpdate": "2025-11-29T00:11:26+07:00"
     },
     "15.2": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-28T16:51:28.711Z",
-      "lastUpdate": "2025-11-28T17:26:57+07:00"
+      "lastUpdate": "2025-11-29T00:11:26+07:00"
     },
     "16.1": {
-      "pendingViews": 12,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-28T16:52:00.386Z",
-      "lastUpdate": "2025-11-28T17:26:57+07:00"
+      "lastUpdate": "2025-11-29T00:11:26+07:00"
     },
     "16.2": {
-      "pendingViews": 15,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-28T16:51:18.155Z",
-      "lastUpdate": "2025-11-28T17:26:57+07:00"
+      "lastUpdate": "2025-11-29T00:11:26+07:00"
     },
     "17.1": {
-      "pendingViews": 3,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-28T17:05:06.613Z",
-      "lastUpdate": "2025-11-28T17:26:57+07:00"
+      "lastUpdate": "2025-11-29T00:11:26+07:00"
     }
   },
-  "lastUpdated": "2025-11-28T17:26:57+07:00"
+  "lastUpdated": "2025-11-29T00:11:26+07:00"
 }
