@@ -116,14 +116,14 @@
       "lastUpdate": "2025-12-09T23:55:36+07:00"
     },
     "16.2": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-09T17:06:33.958Z",
-      "lastUpdate": "2025-12-09T23:55:36+07:00"
+      "lastUpdate": "2025-12-10T00:14:23+07:00"
     },
     "17.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-09T17:06:29.429Z",
-      "lastUpdate": "2025-12-09T23:55:36+07:00"
+      "lastUpdate": "2025-12-10T00:14:23+07:00"
     },
     "17.2": {
       "pendingViews": 0,
@@ -131,5 +131,5 @@
       "lastUpdate": "2025-12-09T23:55:36+07:00"
     }
   },
-  "lastUpdated": "2025-12-09T23:55:36+07:00"
+  "lastUpdated": "2025-12-10T00:14:23+07:00"
 }
