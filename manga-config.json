@@ -1,4 +1,5 @@
 {
+  "type": "manga",
   "title": "Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita",
   "alternativeTitle": "有名VTuberの兄だけど、何故か俺が有名になっていた",
   "cover": "https://cdn.nuranantoscans.my.id/covers/vtuber-493c315e-5492-4d76-80e9-1f55f9e5849e.webp",
@@ -12,7 +13,8 @@
     "School Life",
     "Slice of Life"
   ],
-  "status": "Ongoing",
+  "status": "ONGOING",
+  "endChapter": null,
   "views": 0,
   "links": {
     "mangadex": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
@@ -23,6 +25,7 @@
   "imagePrefix": "Image",
   "imageFormat": "webp",
   "lockedChapters": [
-    "17.1"
+    "17.1",
+    "17.2"
   ]
 }
