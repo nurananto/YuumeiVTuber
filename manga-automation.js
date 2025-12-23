@@ -22,6 +22,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
+const https = require('https');  // ← TAMBAHKAN INI!
 
 // ============================================
 // CONSTANTS
@@ -355,24 +356,28 @@ function generateChaptersData(config, oldMangaData, isFirstTime) {
         console.log(`${lockIcon}${typeIcon} ${chapterName} - ${totalPages} pages - ${dateStr} - ${views} views`);
     });
     
-    const updatedLockedChapters = config.lockedChapters.filter(chapterName => {
-        const folderExists = checkIfFolderExists(chapterName);
-        const totalPages = folderExists ? getTotalPagesFromManifest(chapterName) : 0;
-        return totalPages === 0;
-    });
-    
-    if (updatedLockedChapters.length !== config.lockedChapters.length) {
-        console.log('\n🔓 Auto-removing uploaded chapters from lockedChapters...');
-        const removed = config.lockedChapters.filter(ch => !updatedLockedChapters.includes(ch));
-        console.log(`   Removed: ${removed.join(', ')}`);
+// ✅ AUTO-CLEANUP: Hanya untuk type MANGA
+    if (config.type !== 'webtoon') {
+        const updatedLockedChapters = config.lockedChapters.filter(chapterName => {
+            const folderExists = checkIfFolderExists(chapterName);
+            const totalPages = folderExists ? getTotalPagesFromManifest(chapterName) : 0;
+            return totalPages === 0;
+        });
         
-        config.lockedChapters = updatedLockedChapters;
-        
-        if (saveJSON('manga-config.json', config)) {
-            console.log('✅ manga-config.json updated');
+        if (updatedLockedChapters.length !== config.lockedChapters.length) {
+            console.log('\n🔓 Auto-removing uploaded chapters from lockedChapters...');
+            const removed = config.lockedChapters.filter(ch => !updatedLockedChapters.includes(ch));
+            console.log(`   Removed: ${removed.join(', ')}`);
+            
+            config.lockedChapters = updatedLockedChapters;
+            
+            if (saveJSON('manga-config.json', config)) {
+                console.log('✅ manga-config.json updated');
+            }
         }
+    } else {
+        console.log('\nℹ️  Type: webtoon - locked chapters managed manually');
     }
-    
     let lastChapterUpdate = null;
     
     const allChapterDates = Object.values(chapters).map(ch => ({
@@ -680,6 +685,10 @@ function commandUpdateChapterViews() {
 // COMMAND 5: SYNC CODES FROM CLOUDFLARE (WEBTOON ONLY)
 // ============================================
 
+// ============================================
+// COMMAND 5: SYNC CODES FROM CLOUDFLARE (WEBTOON ONLY)
+// ============================================
+
 async function syncCodesFromCloudflare() {
     try {
         console.log('🔄 Syncing codes from Cloudflare KV...');
@@ -713,21 +722,37 @@ async function syncCodesFromCloudflare() {
         console.log(`📡 Fetching codes from: ${workerUrl}`);
         
         const url = new URL(workerUrl);
-        url.searchParams.append('action', 'getAllCodes');
-        url.searchParams.append('repoName', mangaConfig.repoName);
+        const postData = JSON.stringify({
+            action: 'listCodes',
+            repoName: mangaConfig.repoName
+        });
 
         const response = await new Promise((resolve, reject) => {
-            https.get(url, (res) => {
+            const options = {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Content-Length': Buffer.byteLength(postData)
+                }
+            };
+
+            const req = https.request(url, options, (res) => {
                 let data = '';
                 res.on('data', chunk => data += chunk);
                 res.on('end', () => resolve({
+                    statusCode: res.statusCode,
                     ok: res.statusCode === 200,
                     json: async () => JSON.parse(data)
                 }));
-            }).on('error', reject);
-        }); 
+            });
+
+            req.on('error', reject);
+            req.write(postData);
+            req.end();
+        });
+        
         if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
+            throw new Error(`HTTP ${response.statusCode}`);
         }
         
         const data = await response.json();
