@@ -1,24 +1,24 @@
 {
   "chapters": {
     "1": {
-      "pendingViews": 3,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-07T16:06:00.243Z",
-      "lastUpdate": "2026-01-07T00:17:31+07:00"
+      "lastUpdate": "2026-01-08T00:19:52+07:00"
     },
     "2": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-07T16:07:57.339Z",
-      "lastUpdate": "2026-01-07T00:17:31+07:00"
+      "lastUpdate": "2026-01-08T00:19:52+07:00"
     },
     "3": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-07T16:16:26.917Z",
-      "lastUpdate": "2026-01-05T00:11:35+07:00"
+      "lastUpdate": "2026-01-08T00:19:52+07:00"
     },
     "4": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-07T01:45:39.415Z",
-      "lastUpdate": "2026-01-05T00:11:35+07:00"
+      "lastUpdate": "2026-01-08T00:19:52+07:00"
     },
     "5": {
       "pendingViews": 0,
@@ -26,9 +26,9 @@
       "lastUpdate": "2026-01-05T00:11:35+07:00"
     },
     "6": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-07T01:45:42.809Z",
-      "lastUpdate": "2026-01-05T00:11:35+07:00"
+      "lastUpdate": "2026-01-08T00:19:52+07:00"
     },
     "7": {
       "pendingViews": 0,
@@ -116,9 +116,9 @@
       "lastUpdate": "2026-01-07T00:17:31+07:00"
     },
     "16.2": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-07T11:54:40.534Z",
-      "lastUpdate": "2026-01-07T00:17:31+07:00"
+      "lastUpdate": "2026-01-08T00:19:52+07:00"
     },
     "17.1": {
       "pendingViews": 0,
@@ -126,14 +126,14 @@
       "lastUpdate": "2026-01-07T00:17:31+07:00"
     },
     "17.2": {
-      "pendingViews": 9,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-07T14:50:03.144Z",
-      "lastUpdate": "2026-01-07T00:17:31+07:00"
+      "lastUpdate": "2026-01-08T00:19:52+07:00"
     },
     "18.1": {
-      "pendingViews": 8,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-07T11:54:23.650Z",
-      "lastUpdate": "2026-01-07T00:17:31+07:00"
+      "lastUpdate": "2026-01-08T00:19:52+07:00"
     }
   },
   "lastUpdated": "2026-01-01T00:11:54+07:00"
