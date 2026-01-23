@@ -14,7 +14,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 2702,
+    "views": 2736,
     "links": {
       "mangadex": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
       "raw": "https://www.manga-up.com/titles/1289"
@@ -36,7 +36,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 185
+      "views": 189
     },
     "2": {
       "title": "Chapter 2",
@@ -86,7 +86,7 @@
       "totalPages": 25,
       "pages": 25,
       "locked": false,
-      "views": 97
+      "views": 98
     },
     "7": {
       "title": "Chapter 7",
@@ -96,7 +96,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 82
+      "views": 83
     },
     "8": {
       "title": "Chapter 8",
@@ -276,7 +276,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 525
+      "views": 526
     },
     "17.2": {
       "title": "Chapter 17.2",
@@ -286,7 +286,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 525
+      "views": 533
     },
     "18.1": {
       "title": "Chapter 18.1",
@@ -296,7 +296,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 498
+      "views": 518
     },
     "18.2": {
       "title": "Chapter 18.2",
@@ -306,9 +306,9 @@
       "totalPages": 12,
       "pages": 12,
       "locked": true,
-      "views": 100
+      "views": 118
     }
   },
-  "lastUpdated": "2026-01-23T00:22:32+07:00",
+  "lastUpdated": "2026-01-24T00:20:31+07:00",
   "lastChapterUpdate": "2026-01-14T17:26:22+07:00"
 }
