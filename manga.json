@@ -13,8 +13,8 @@
       "School Life",
       "Slice of Life"
     ],
-    "status": "ONGOING",
-    "views": 2948,
+    "status": "HIATUS",
+    "views": 2962,
     "links": {
       "mangadex": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
       "raw": "https://www.manga-up.com/titles/1289"
@@ -22,9 +22,7 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/YuumeiVTuber/main/",
     "imagePrefix": "Image",
     "imageFormat": "webp",
-    "lockedChapters": [
-      "18.2"
-    ],
+    "lockedChapters": [],
     "type": "manga"
   },
   "chapters": {
@@ -276,7 +274,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 544
+      "views": 545
     },
     "17.2": {
       "title": "Chapter 17.2",
@@ -286,7 +284,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 557
+      "views": 560
     },
     "18.1": {
       "title": "Chapter 18.1",
@@ -296,7 +294,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 613
+      "views": 619
     },
     "18.2": {
       "title": "Chapter 18.2",
@@ -305,10 +303,10 @@
       "uploadDate": "2026-01-14T17:26:22+07:00",
       "totalPages": 12,
       "pages": 12,
-      "locked": true,
-      "views": 190
+      "locked": false,
+      "views": 193
     }
   },
-  "lastUpdated": "2026-02-05T00:39:05+07:00",
+  "lastUpdated": "2026-02-05T23:24:19+07:00",
   "lastChapterUpdate": "2026-01-14T17:26:22+07:00"
 }
