@@ -14,7 +14,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 3662,
+    "views": 3696,
     "links": {
       "mangadex": "https://mangadex.org/title/9aebe60e-777f-4a58-a3bf-143c3096b94f/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
       "raw": "https://www.manga-up.com/titles/1289"
@@ -36,7 +36,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 252
+      "views": 254
     },
     "2": {
       "title": "Chapter 2",
@@ -46,7 +46,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 175
+      "views": 177
     },
     "3": {
       "title": "Chapter 3",
@@ -56,7 +56,7 @@
       "totalPages": 26,
       "pages": 26,
       "locked": false,
-      "views": 161
+      "views": 162
     },
     "4": {
       "title": "Chapter 4",
@@ -66,7 +66,7 @@
       "totalPages": 20,
       "pages": 20,
       "locked": false,
-      "views": 143
+      "views": 144
     },
     "5": {
       "title": "Chapter 5",
@@ -76,7 +76,7 @@
       "totalPages": 25,
       "pages": 25,
       "locked": false,
-      "views": 124
+      "views": 125
     },
     "6": {
       "title": "Chapter 6",
@@ -266,7 +266,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 540
+      "views": 541
     },
     "17.1": {
       "title": "Chapter 17.1",
@@ -276,7 +276,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 574
+      "views": 575
     },
     "17.2": {
       "title": "Chapter 17.2",
@@ -286,7 +286,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 591
+      "views": 593
     },
     "18.1": {
       "title": "Chapter 18.1",
@@ -296,7 +296,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 700
+      "views": 703
     },
     "18.2": {
       "title": "Chapter 18.2",
@@ -306,7 +306,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 384
+      "views": 393
     },
     "19.1": {
       "title": "Chapter 19.1",
@@ -316,9 +316,9 @@
       "totalPages": 10,
       "pages": 10,
       "locked": true,
-      "views": 21
+      "views": 23
     }
   },
-  "lastUpdated": "2026-02-27T17:10:25.966Z",
+  "lastUpdated": "2026-02-28T17:10:23.071Z",
   "lastChapterUpdate": "2026-02-24T23:10:36+07:00"
 }
