@@ -13,9 +13,7 @@
 | Author | Ibarakino |
 | Artist | Shio Takoyaki |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Shounen · Comedy · Romance · School Life · Slice of Life |
-| Chapter | 29 chapter (1 locked) |
 
 ## Link
 
